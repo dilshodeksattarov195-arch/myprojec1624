@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasecpdate",
+        "uuid": 5695368,
+        "checksum": "ujrszy"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
